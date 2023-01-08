@@ -3,6 +3,8 @@
 - We then split the scaled data into training and testing datasets, which are then converted to numpy arrays. An LSTM model is built and compiled, and is then trained on the training data. The model is used to make predictions on the testing data, and the performance of the model is evaluated using various evaluation metrics. The results are visualized and the model is used to predict the stock price of TSLA on the next trading day.
 - Overall, this project demonstrates how machine learning can be used to predict stock prices and provides a step-by-step guide for implementing this approach using Python and the LSTM model.
 
+![Correlation]( https://github.com/PrashanthReddy47/StockPricePrediction_LSTM/blob/main/Results/Final_Result.png?raw=true)
+
 # Installation Instructions
 ## To use this project, you will need to have Python and the following libraries installed:
 
