@@ -32,11 +32,8 @@ To use this project, follow these steps:
 
 ## Dependencies
 This project relies on the following libraries:
--	yfinance
--	pandas
--	numpy
--	matplotlib
--	keras
+-	yfinance, pandas, numpy, matplotlib, keras
+
 ### Make sure these libraries are installed before running the script.
 
 "This project was completed following the tutorial at https://www.youtube.com/watch?v=QIUxPv5PJOY&ab_channel=ComputerScience by Computer Science on YouTube. Thank you to Computer Science for sharing their knowledge and expertise in this video."
